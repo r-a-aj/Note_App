@@ -1,0 +1,51 @@
+.note {
+  background-color: #fff;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  padding: 20px;
+  margin-bottom: 20px;
+}
+
+.note h3 {
+  margin-top: 0;
+}
+
+.note p {
+  margin-bottom: 10px;
+}
+
+.note img {
+  max-width: 100%;
+  height: auto;
+}
+
+.note video {
+  max-width: 100%;
+}
+
+.note-description {
+  border-top: 1px solid #ccc;
+  padding-top: 10px;
+}
+
+.note-description p {
+  margin-bottom: 5px;
+}
+
+.note-controls {
+  margin-top: 10px;
+}
+
+.note-controls button {
+  margin-right: 10px;
+  padding: 5px 10px;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.note-controls button:hover {
+  background-color: #0056b3;
+}
